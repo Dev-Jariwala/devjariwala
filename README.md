@@ -9,7 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/_devjariwala_" target="blank"><img src="https://img.shields.io/twitter/follow/_devjariwala_?logo=twitter&style=for-the-badge" alt="_devjariwala_" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on [iBlog](https://dev-jariwala.github.io/iBlog/)
+
+- 👯 My First Responsive Website [Tin-dog](https://dev-jariwala.github.io/tindog/)
+
+- 🤝 My Personal Website [Dev Jariwala](https://dev-jariwala.github.io/Dev-jariwala/)
+
+- 👨‍💻 All of my projects are available at [https://dev-jariwala.github.io/Dev-Jariwala-Profile/](https://dev-jariwala.github.io/Dev-Jariwala-Profile/)
 
 - 🌱 I’m currently learning **Javascript and React.js**
 
